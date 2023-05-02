@@ -1,13 +1,13 @@
 {
   "ios": {
-    "name": "1.0.6",
-    "code": "32",
-    "version":"1.0.6-32"
+    "name": "1.0.7",
+    "code": "1",
+    "version":"1.0.7-1"
   },
   "android": {
-    "name": "1.0.0",
-    "code": "14",
-    "version":"1.0.0-14",
+    "name": "1.0.6",
+    "code": "20",
+    "version":"1.0.6-20",
     "test":"sonsss"
   }
 }
