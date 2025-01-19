@@ -1,1 +1,117 @@
-[]
+{
+  "config": {
+    "colors": {
+      "basicSkills": "#8884d8",
+      "technicalSkills": "#82ca9d", 
+      "softSkills": "#ffc658",
+      "businessSkills": "#ff7c43"
+    },
+    "yAxisMax": 100,
+    "barSize": 8,
+    "barGap": 2
+  },
+  "legend": [
+    {
+      "id": "basicSkills",
+      "name": "Kỹ năng cơ bản",
+      "color": "#8884d8"
+    },
+    {
+      "id": "technicalSkills",
+      "name": "Kỹ năng chuyên môn",
+      "color": "#82ca9d"
+    },
+    {
+      "id": "softSkills",
+      "name": "Kỹ năng mềm",
+      "color": "#ffc658"
+    },
+    {
+      "id": "businessSkills",
+      "name": "Kỹ năng kinh doanh",
+      "color": "#ff7c43"
+    }
+  ],
+  "data": [
+    {
+      "competency": "Giao tiếp",
+      "basicSkills": 45,
+      "technicalSkills": 25,
+      "softSkills": 85,
+      "businessSkills": 65,
+      "totalParticipants": 180
+    },
+    {
+      "competency": "Giải quyết vấn đề",
+      "basicSkills": 65,
+      "technicalSkills": 75,
+      "softSkills": 55,
+      "businessSkills": 45,
+      "totalParticipants": 200
+    },
+    {
+      "competency": "Làm việc nhóm",
+      "basicSkills": 35,
+      "technicalSkills": 45,
+      "softSkills": 90,
+      "businessSkills": 50,
+      "totalParticipants": 150
+    },
+    {
+      "competency": "Quản lý thời gian",
+      "basicSkills": 55,
+      "technicalSkills": 35,
+      "softSkills": 70,
+      "businessSkills": 60,
+      "totalParticipants": 170
+    },
+    {
+      "competency": "Tư duy phản biện",
+      "basicSkills": 75,
+      "technicalSkills": 65,
+      "softSkills": 45,
+      "businessSkills": 55,
+      "totalParticipants": 190
+    },
+    {
+      "competency": "Sáng tạo",
+      "basicSkills": 40,
+      "technicalSkills": 55,
+      "softSkills": 75,
+      "businessSkills": 45,
+      "totalParticipants": 160
+    },
+    {
+      "competency": "Kỹ thuật",
+      "basicSkills": 30,
+      "technicalSkills": 85,
+      "softSkills": 35,
+      "businessSkills": 40,
+      "totalParticipants": 175
+    },
+    {
+      "competency": "Phân tích dữ liệu",
+      "basicSkills": 50,
+      "technicalSkills": 80,
+      "softSkills": 40,
+      "businessSkills": 65,
+      "totalParticipants": 185
+    },
+    {
+      "competency": "Kinh doanh",
+      "basicSkills": 35,
+      "technicalSkills": 45,
+      "softSkills": 60,
+      "businessSkills": 85,
+      "totalParticipants": 195
+    },
+    {
+      "competency": "Ngoại ngữ",
+      "basicSkills": 60,
+      "technicalSkills": 40,
+      "softSkills": 65,
+      "businessSkills": 50,
+      "totalParticipants": 165
+    }
+  ]
+}
